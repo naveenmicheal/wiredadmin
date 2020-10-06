@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/imagegallary", {data:[{}],fetch:[],mutations:[]});
